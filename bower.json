@@ -1,0 +1,17 @@
+{
+  "name": "javascript-bcrypt",
+  "homepage": "https://github.com/nevins-b/javascript-bcrypt",
+  "description": "This is a javascript implementation of bCrypt based on jBcrypt.",
+  "main": "bCrypt.js",
+  "keywords": [
+    "bCrypt"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
